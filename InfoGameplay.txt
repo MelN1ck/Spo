@@ -1,0 +1,47 @@
+crafsteo alquimia
+inventario
+libro con hechizos y crafteos
+ataque magiz y arma
+barras (vida/stamina)
+interacciones con boton
+sistema de llaves
+misiones (npc)
+
+
+inventario
+	limitado
+	bulto
+	alimentos (ingerir)
+	pociones (usar)
+	agrandar inventario
+ 	se va agrandando inventario
+
+libro
+	enciclopedia
+	personaje
+	lugares, 
+	cosas
+	pociones
+	etc
+
+dimension
+	casa de bolsillo
+	portal
+
+zonas
+	hongos || botan sporas para bloquear, tiempo limitado. Activacion patron
+	
+
+enemigos
+	sporas(overlap y ataque)
+	
+	boss(magia, invocaciones)
+
+
+opciones
+	configuracion de botones
+
+camaras
+3d y endles runner
+
+	
