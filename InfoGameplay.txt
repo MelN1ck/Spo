@@ -29,7 +29,7 @@ dimension
 	portal
 
 zonas
-	hongos || botan sporas para bloquear, tiempo limitado. Activacion patron
+	hongos || botan sporas para bloquear, tiempo limitado. Activacion patron ||hacen dano
 	
 
 enemigos
