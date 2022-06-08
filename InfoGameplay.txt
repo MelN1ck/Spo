@@ -1,12 +1,20 @@
 crafsteo alquimia
 inventario
 libro con hechizos y crafteos
-ataque magiz y arma
+
 barras (vida/stamina)
 interacciones con boton
 sistema de llaves
 misiones (npc)
 
+
+ataque
+
+magia 
+	diversos hechizos
+
+arma
+	daga
 
 inventario
 	limitado
@@ -34,6 +42,9 @@ zonas
 
 enemigos
 	sporas(overlap y ataque)
+
+		animaciones
+			ataque, idle, caminar, hit, morir
 	
 	boss(magia, invocaciones)
 
